@@ -22,3 +22,4 @@
 2026-02-28 15:04:19,625 [main] ERROR logs.log4j - This is error..
 2026-02-28 15:04:19,626 [main] WARN  logs.log4j - This is warn..
 2026-02-28 15:04:19,626 [main] FATAL logs.log4j - This is fatal..
+2026-03-01 13:42:29,217 [main] WARN  org.apache.poi.openxml4j.opc.ZipPackage - Error in zip file null\excel\data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
