@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" parallel="classes" name="Test(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.TestNGListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="test.TestNG_loginTest3">
+      <class name="listeners.TestNGListenerDemo2">
         <methods>
-          <include name="LoingTest_POM"/>
-          <include name="tearDown"/>
-          <include name="LoingTest"/>
-          <include name="setupTest"/>
+          <include name="test6"/>
+          <include name="test5"/>
         </methods>
-      </class> <!-- test.TestNG_loginTest3 -->
+      </class> <!-- listeners.TestNGListenerDemo2 -->
+      <class name="listeners.TestNGListenerDemo">
+        <methods>
+          <include name="test3"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- listeners.TestNGListenerDemo -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
