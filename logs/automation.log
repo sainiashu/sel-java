@@ -1,0 +1,24 @@
+2026-02-28 14:24:01,687 [main] INFO  logs.log4j - This is info msg..
+2026-02-28 14:24:01,692 [main] ERROR logs.log4j - This is error..
+2026-02-28 14:24:01,693 [main] WARN  logs.log4j - This is warn..
+2026-02-28 14:24:01,693 [main] FATAL logs.log4j - This is fatal..
+2026-02-28 14:30:02,572 [main] INFO  logs.log4j - This is info msg..
+2026-02-28 14:30:02,578 [main] ERROR logs.log4j - This is error..
+2026-02-28 14:30:02,580 [main] WARN  logs.log4j - This is warn..
+2026-02-28 14:30:02,580 [main] FATAL logs.log4j - This is fatal..
+2026-02-28 14:54:23,946 [main] INFO  logs.log4j - This is info msg..
+2026-02-28 14:54:23,959 [main] ERROR logs.log4j - This is error..
+2026-02-28 14:54:23,959 [main] WARN  logs.log4j - This is warn..
+2026-02-28 14:54:23,969 [main] FATAL logs.log4j - This is fatal..
+2026-02-28 14:58:34,310 [main] INFO  logs.log4j - This is info msg..
+2026-02-28 14:58:34,321 [main] ERROR logs.log4j - This is error..
+2026-02-28 14:58:34,323 [main] WARN  logs.log4j - This is warn..
+2026-02-28 14:58:34,324 [main] FATAL logs.log4j - This is fatal..
+2026-02-28 14:59:56,688 [main] INFO  logs.log4j - This is info msg..
+2026-02-28 14:59:56,693 [main] ERROR logs.log4j - This is error..
+2026-02-28 14:59:56,697 [main] WARN  logs.log4j - This is warn..
+2026-02-28 14:59:56,698 [main] FATAL logs.log4j - This is fatal..
+2026-02-28 15:04:19,617 [main] INFO  logs.log4j - This is info msg..
+2026-02-28 15:04:19,625 [main] ERROR logs.log4j - This is error..
+2026-02-28 15:04:19,626 [main] WARN  logs.log4j - This is warn..
+2026-02-28 15:04:19,626 [main] FATAL logs.log4j - This is fatal..
