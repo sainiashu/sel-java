@@ -38,8 +38,8 @@ public class TestNG_loginTest3 {
 		
 		loginpage_pom login = new loginpage_pom(driver);
 		driver.get("https://demo.applitools.com/");
-		login.enterUsername("ashu");
-		login.enterPassword("ashu");
+		login.enterUsername("admin");
+		login.enterPassword("admin");
 		login.clickSignin();
 		
 	}

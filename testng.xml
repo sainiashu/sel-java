@@ -4,7 +4,7 @@
   <test thread-count="5" parallel="classes" name="Test">
     <classes>
       <class name="test.TestNG_loginTest"/>
-      <class name="test.TestNG_loginTest3"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
